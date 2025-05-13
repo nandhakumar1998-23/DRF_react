@@ -55,6 +55,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # Allow React frontend
+    "https://drf-react.vercel.app", 
 ]
 
 
